@@ -1,5 +1,5 @@
 ## **Application Name**
-#### _clara's Portfolio_
+#### Portfolio-Two
 
 ## **Description**
 #### As a programmer this is my portfolio resume. it is a showcase that brings to light my developing skills and to confidently prove that i can do what i talked about in my resume.
