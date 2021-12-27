@@ -10,8 +10,11 @@
 [**claramettoh**]()
 
 ## **Setup/Installation**
-* Clone the Repo. https://github.com/clarametto/Portfolio-Two
- 
+* Clone the Repo. 
+
+   * ```
+          git clone git@github.com:clarametto/Portfolio-Two.git 
+      ```
  * Open the project on vs code or your desired editor.
 * Open the project on live Server.
 ##  **known Bugs**
@@ -24,4 +27,4 @@ Personal
 * README.md
 ## **License**
 #### Mt [**License**](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2021 [claramettoh!]()
+Copyright (c) 2021 [claramettoh!](https://github.com/clarametto/Portfolio-Two)
