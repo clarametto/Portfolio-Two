@@ -1,160 +1,4 @@
- 
- /* .body{
-  background-color:rgba(0, 0, 0, 0.5);
 
- }
- 
- 
- .background{
-     background-color: whitesmoke;
-     padding:20px;
-     border-radius:10px;
-     border:1px solid skyblue;
- }
- p {
-    color: black;
-    text-align: center;
-    font-size: 20px;
-  }
-  h1{
-    color: #033e79;
-    text-align: center;
-    font-size: 60px;
-  }
-
-
-  .folio ul {
-    padding-right: 50%;
-    background-color:skyblue;
-
-    list-style-type: none;
-    width: 100%;
-    text-align: center;
-    padding: 3% 1%;
-  }
-  body {
-    background-color: #D0D3D4;
-  }
-  
-  .folio li {
-    float: left;
-    text-align: center;
-    margin-left:5%;
-    font-size:20px;
-
-  }
-  
-  li a {
-    display: block;
-    text-align: center;
-    color: #033e79;
-    font-weight: 900;
-    padding: 2% 2%;
-    width: 17vw;
-
-  }
-  
-  li a:hover {
-    background-color:#033e79;
-    border-radius: 10px;
-    color: white;
-    text-decoration: none;
-
-  }
-
-  .bout p{
-    text-align: center;
-    font-style: italic;
-    font-weight: 900;
-
-   
-  }
-
-  .bout p{
-    text-align: center;
-    font-style: italic;
-    font-weight: 900;
-
-   
-  }
-
-  /* three */
-
-  /* *{
-    text-decoration: none;
-}
-#navigation{
-    text-align: center;
-    padding: 20px;
-    text-align: center;
-    width: 100%;
-
-}
-.nav{
-  margin-left: 13%;
-
-  
-
-}
-
-#navi{
-  background-color:rgba(0, 0, 0, 0.5);
-  padding: 2%;
-  border-radius: 20px;
-  border:2px solid skyblue;
-
-}
-.nav,a{
-padding: 20px;
-}
-
-.nav a{
-    padding: 15px 30px;
-    color:skyblue;
-    font-size: 30px;
-    font-weight: 900;
-    text-decoration: none;
- }
- .nav a:hover{
-    padding: 10px 30px;
-    color:navy;
-    /* background-color: blue; */
-
-    /* border-radius: 10px;
- } */
-/* 
- #foot{
-   text-align: center;
-   background-color:skyblue;
-   border-radius: 10px;
-   padding: 20px;
- }
- .one a{
-   padding: 10px;
-   text-decoration: none;
-   color: blue;
-   font-weight:900 ;
- }
-
- .one a:hover{
-   color: white;
-   background-color: navy;
-
-   border-radius: 10px;
-
-  
-}
-
-#image{
-  height: 70px;
-  width: 100px;
-
-/* } */ 
-
-
-
-
-/* xxxxxxxxx */
 *{
   padding:0;
   margin:0;
@@ -218,23 +62,78 @@ margin-top:4rem;
 .name{
   margin-top:1rem ;
 }
-.name h1 span{
-  color: #7b2cbf;
+#about a{
+color: white;
+text-decoration: none;
 }
 .me{
   color: #7b2cbf;
 }
-.riot{
-  color: white;
+.metto{
+  color: #7b2cbf;
 }
 
 
-/* .navi{
-  margin: 0.5rem 10px;
 
-} */
+#text{
+  font-size: 50px;
+  color: #7b2cbf;
+}
 
-/* .logo a :hover{
+#hobbies{
+  color: #7b2cbf;
+  text-decoration: none;
+}
 
-} */
+#projects{
+  color: #7b2cbf;
+  text-decoration: none;
+}
+
+#contact{
+  color: #7b2cbf;
+  text-decoration: none;
+}
+.hobbie{
+  text-align: center;
+}
+.wider{
+  text-align: center;
+
+
+}
+
+.claire{
+  margin-top: 2rem;
+}
+.metto a{
+  color: white;
+  margin: 1rem;
+  text-decoration: none;
+
+}
+.metto a:hover{
+  color: #7b2cbf;
+
+}
+.form{
+  margin: 0rem 2rem;
+
+}
+
+
+.footie a{
+  color: white;
+
+}
+
+.footie a :hover{
+  color:#7b2cbf;
+
+  
+}
+.cheptoo{
+  color: #7b2cbf;
+  padding-bottom: 1rem;
+}
 
