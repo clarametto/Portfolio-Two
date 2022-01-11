@@ -137,3 +137,22 @@ text-decoration: none;
   padding-bottom: 1rem;
 }
 
+.header-area h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  padding: 0;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+
+}
+
+.header-area h2 span{
+  color: #7b2cbf;
+
+}
+
