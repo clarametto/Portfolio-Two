@@ -73,8 +73,6 @@ text-decoration: none;
   color: #7b2cbf;
 }
 
-
-
 #text{
   font-size: 50px;
   color: #7b2cbf;
@@ -154,5 +152,22 @@ text-decoration: none;
 .header-area h2 span{
   color: #7b2cbf;
 
+}
+
+#Skills{
+  color: #7b2cbf;
+  text-decoration: none;
+
+}
+
+.yaya{
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+
+}
+.skill{
+  margin-top: 3rem;
+ 
 }
 
